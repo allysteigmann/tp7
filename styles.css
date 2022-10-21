@@ -53,7 +53,7 @@ p.smaller {
 div#titleBanner {
   color: white;
   font-family: 'Francois One', sans-serif;
-  font-size: 500%;
+  font-size: 150%;
   text-align: center;
   text-shadow: 0px 8px 8px #000000;
   padding-top: 2%;
@@ -82,7 +82,7 @@ div#titleBanner {
   bottom: 0;
   left: 0;
   color: #000000;
-  font-size: 20%;
+  font-size: 80%;
   right: 0vw;
   box-shadow: none;
   text-shadow: 0px 0px 0px;
@@ -102,6 +102,7 @@ div#titleBanner {
   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.7);
   position: relative;
   left: 0rem;
+  
 }
 
 #ingredients {
@@ -110,6 +111,7 @@ div#titleBanner {
   position: relative;
   left: 2rem;
   color: #ffffff;
+  
 }
 
 #directions {
@@ -118,6 +120,7 @@ div#titleBanner {
   position: relative;
   left: 2rem;
   color: #ffffff;
+ 
 }
 
 #equipment {
@@ -126,6 +129,8 @@ div#titleBanner {
   position: relative;
   left: 3rem;
   color: #ffffff;
+  padding-right: 5vh;
+  padding-left: 5vh;
 }
 
 #ingredients h4 {
